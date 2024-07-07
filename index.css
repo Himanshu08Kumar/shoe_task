@@ -17,11 +17,11 @@ body{
 }
 .card h2{
     font-size: 27px;
-    margin-bottom: 12px;
+    margin-bottom: 20px;
 }
 .card p{
     font-size: 18px;
-    margin-bottom: 25px;
+    margin-bottom: 30px;
     color: #333;
     font-weight: 500;
 }
@@ -42,19 +42,19 @@ a{
 }
 .card1{
     background-image: url(./image/1.png);
-    background-size: 200px;
+    background-size: 180px;
     background-repeat: no-repeat;
     background-position:right;
 }
 .card2{
     background-image: url(./image/2.png);
-    background-size: 200px;
+    background-size: 180px;
     background-repeat: no-repeat;
     background-position:right;
 }
 .card3{
     background-image: url(./image/3.png);
-    background-size: 200px;
+    background-size: 180px;
     background-repeat: no-repeat;
     background-position:right;
 }
