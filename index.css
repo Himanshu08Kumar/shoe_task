@@ -42,19 +42,19 @@ a{
 }
 .card1{
     background-image: url(./image/1.png);
-    background-size: 210px;
+    background-size: 200px;
     background-repeat: no-repeat;
     background-position:right;
 }
 .card2{
     background-image: url(./image/2.png);
-    background-size: 210px;
+    background-size: 200px;
     background-repeat: no-repeat;
     background-position:right;
 }
 .card3{
     background-image: url(./image/3.png);
-    background-size: 210px;
+    background-size: 200px;
     background-repeat: no-repeat;
     background-position:right;
 }
